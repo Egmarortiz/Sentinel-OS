@@ -81,6 +81,6 @@ Built by **Egmar José Ortiz Ocasio**, Holberton School student and future syste
 
 ## 🚧 Project Status
 
-> 🔨 In development — MVP launch goal: **October 2025**  
+> 🔨 In development — MVP launch goal: **TBD**  
 > 🌟 Updates and detailed documentation coming soon.
 
